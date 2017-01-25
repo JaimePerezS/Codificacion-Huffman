@@ -1,10 +1,11 @@
 # Codificacion-Huffman
 ## Ejecución:
-            Comprimir:    
+Comprimir:    
             ```bash
              $ java ./PlantillaCodificacionHuffman -c filePathIn filePathOut
             ```
-            Descomprimir:
+
+Descomprimir:    
             ```bash
              $ java ./PlantillaCodificacionHuffman -d filePathIn filePathOut
             ```
