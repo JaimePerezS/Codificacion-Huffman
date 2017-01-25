@@ -1,9 +1,15 @@
 # Codificacion-Huffman
- ##Ejecución: <br /> <br />
-            Comprimir:    java PlantillaCodificacionHuffman -c filePathIn filePathOut  <br />
-            Decomprimir:  java PlantillaCodificacionHuffman -d filePathIn filePathOut  <br />
+## Ejecución:
+            Comprimir:    
+            ```bash
+             $ java ./PlantillaCodificacionHuffman -c filePathIn filePathOut
+            ```
+            Descomprimir:
+            ```bash
+             $ java ./PlantillaCodificacionHuffman -d filePathIn filePathOut
+            ```
   
- ##Utilidad:  <br /> <br /> 
+## Utilidad:
  Permite la compresión/descompresión usando el algoritmo de Huffman <br />
  de un archivo de entrada hacia un archivo de salida. 
 
